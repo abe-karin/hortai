@@ -1,0 +1,136 @@
+{
+  "plantas": [
+    {
+      "planta": "Cebolinha",
+      "wikipedia": "Allium_schoenoprasum",
+      "luz": "Sol pleno",
+      "rega_dias": 3,
+      "perfil": "Resistente",
+      "dificuldade_escala_1_5": 1,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Ano todo",
+      "manejo": "Colha cortando 3cm acima da base. Adubação orgânica trimestral."
+    },
+    {
+      "planta": "Manjericão",
+      "wikipedia": "Ocimum_basilicum",
+      "luz": "Sol pleno",
+      "rega_dias": 2,
+      "perfil": "Exigente em sol",
+      "dificuldade_escala_1_5": 3,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Primavera-Verão",
+      "manejo": "Murchou de manhã? Falta água na zona inferior do torrão. Gosta de ar livre."
+    },
+    {
+      "planta": "Hortelã",
+      "wikipedia": "Mentha",
+      "luz": "Meia-sombra",
+      "rega_dias": 2,
+      "perfil": "Raiz invasora",
+      "dificuldade_escala_1_5": 1,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Ano todo",
+      "manejo": "Mantenha em vaso individual; raiz sufoca outros temperos."
+    },
+    {
+      "planta": "Alface-crespa",
+      "wikipedia": "Lactuca_sativa",
+      "luz": "Sol ameno",
+      "rega_dias": 2,
+      "perfil": "Folha sensível",
+      "dificuldade_escala_1_5": 2,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste",
+      "temporada_ideal": "Outono-Inverno",
+      "manejo": "Proteja de sol forte das 13h-16h para evitar bordas queimadas."
+    },
+    {
+      "planta": "Alecrim",
+      "wikipedia": "Rosmarinus_officinalis",
+      "luz": "Sol pleno",
+      "rega_dias": 4,
+      "perfil": "Rústico",
+      "dificuldade_escala_1_5": 1,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste",
+      "temporada_ideal": "Ano todo",
+      "manejo": "Solo secou totalmente? Aí sim rega. Odeia pé encharcado."
+    },
+    {
+      "planta": "Salsa",
+      "wikipedia": "Petroselinum_crispum",
+      "luz": "Meia-sombra",
+      "rega_dias": 3,
+      "perfil": "Sensível a encharcamento",
+      "dificuldade_escala_1_5": 3,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste",
+      "temporada_ideal": "Outono-Primavera",
+      "manejo": "Germinação lenta (até 25 dias). Mantenha úmido sem lodo."
+    },
+    {
+      "planta": "Coentro",
+      "wikipedia": "Coriandrum_sativum",
+      "luz": "Sol pleno",
+      "rega_dias": 2,
+      "perfil": "Crescimento rápido",
+      "dificuldade_escala_1_5": 2,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Outono-Inverno",
+      "manejo": "Prefere plantio direto no definitivo; vai a pendoamento rápido com calor excessivo."
+    },
+    {
+      "planta": "Tomate-cereja",
+      "wikipedia": "Tomate-cereja",
+      "luz": "Sol pleno",
+      "rega_dias": 3,
+      "perfil": "Frutífera de vaso",
+      "dificuldade_escala_1_5": 3,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Primavera-Verão",
+      "manejo": "Exige tutoramento (tutores/estacas) e poda de netos lateral."
+    },
+    {
+      "planta": "Rúcula",
+      "wikipedia": "Eruca_vesicaria",
+      "luz": "Sol ameno",
+      "rega_dias": 2,
+      "perfil": "Folha picante",
+      "dificuldade_escala_1_5": 1,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Outono-Inverno",
+      "manejo": "Colheita rápida em 40 dias; corte rente para rebrotar levemente."
+    },
+    {
+      "planta": "Tomilho",
+      "wikipedia": "Thymus_vulgaris",
+      "luz": "Sol pleno",
+      "rega_dias": 5,
+      "perfil": "Aromática rústica",
+      "dificuldade_escala_1_5": 2,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste",
+      "temporada_ideal": "Ano todo",
+      "manejo": "Solo muito drenável; rega moderada e muita luz direta."
+    },
+    {
+      "planta": "Pimenta-dedo-de-moça",
+      "wikipedia": "Capsicum_baccatum",
+      "luz": "Sol pleno",
+      "rega_dias": 4,
+      "perfil": "Gosta de calor",
+      "dificuldade_escala_1_5": 2,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste, Norte, Nordeste",
+      "temporada_ideal": "Primavera-Verão",
+      "manejo": "Adubação rica em fósforo na floração para fixar frutos."
+    },
+    {
+      "planta": "Couve-manteiga",
+      "wikipedia": "Couve",
+      "luz": "Sol pleno",
+      "rega_dias": 3,
+      "perfil": "Folha tradicional",
+      "dificuldade_escala_1_5": 2,
+      "regioes_aptas": "Sul, Sudeste, Centro-Oeste",
+      "temporada_ideal": "Outono-Inverno",
+      "manejo": "Atenta a pulgões nas folhas mais jovens; use calda de sabão se necessário."
+    }
+  ]
+}
